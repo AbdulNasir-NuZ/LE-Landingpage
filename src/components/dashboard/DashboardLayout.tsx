@@ -79,7 +79,7 @@ export const DashboardLayout = () => {
         <header className="bg-card border-b border-border px-6 py-4">
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <h2 className="text-lg font-semibold">Acme Corp</h2>
+              <h2 className="text-lg font-semibold">Lead Equator</h2>
               <Badge variant="secondary" className="bg-primary/20 text-primary">
                 Pilot
               </Badge>
